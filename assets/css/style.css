@@ -1,0 +1,18 @@
+
+.header {
+    display: flex;
+    align-items: center;
+    background-color: #000000;
+    justify-content: space-between;
+}
+.nav{
+    
+}
+.nav ul li{
+    list-style: none;
+    float: left;
+    margin: 15px;
+}
+.nav ul li a{
+    color: #FEFEFE;
+}
